@@ -1,19 +1,59 @@
-# AYYYYYEEEEEEEEE ☠️🖤💗
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/39/eb/7c/39eb7cb5f15f045bf3c61b4fc56a1064.gif"  />
+</div>
 
-Brat Menace is my alias. My name is Tilly.
+###
 
-This GitHub is where I track my growth in C programming and Linux kernel development. I’m here to learn, build, and contribute to communities while keeping my progress organized and intentional.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=plastic" height="25" alt="bluesky logo"  />
+</div>
 
-This is my space to grow and connect with people walking a similar path.
+###
 
-## Interests
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bratmenace.bratmenace&"  />
+</div>
 
-- Tech in all forms  
-- Gaming
-- FOSS
-- Languages  
-- Visual creativity  
-- Blogging
-- Etc.
+###
 
-When I’m locked in, drill, trap, and rap are on repeat. That’s how I channel focus and push toward milestones.
+<h1 align="center">BRAT MENACE ☠️🖤💗</h1>
+
+###
+
+<h3 align="left">Linux girl. Systems in progress. Kernel path.</h3>
+
+###
+
+<p align="left">I build in C and C++ and study systems from the inside out.<br>Currently focused on Linux kernel development and understanding what happens beneath the surface. ☠️<br><br>This space tracks my growth, experiments, and long-term trajectory into low-level systems. 🖤<br><br>Progress over noise. 💗</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bratmenace&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
