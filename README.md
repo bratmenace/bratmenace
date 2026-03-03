@@ -1,16 +1,19 @@
-## Hi there 👋
+# AYYYYYEEEEEEEEE ☠️🖤💗
 
-<!--
-**bratmenace/bratmenace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brat Menace is my alias. My name is Tilly.
 
-Here are some ideas to get you started:
+This GitHub is where I track my growth in C programming and Linux kernel development. I’m here to learn, build, and contribute to communities while keeping my progress organized and intentional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my space to grow and connect with people walking a similar path.
+
+## Interests
+
+- Tech in all forms  
+- Gaming
+- FOSS
+- Languages  
+- Visual creativity  
+- Blogging
+- Etc.
+
+When I’m locked in, drill, trap, and rap are on repeat. That’s how I channel focus and push toward milestones.
