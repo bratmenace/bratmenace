@@ -16,7 +16,9 @@
 
 ###
 
-<h1 align="center">BRAT MENACE ☠️🖤💗</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bratmenace/bratmenace/main/assets/Daddy-s-Lil-Menace.png" width="700">
+</p>
 
 ###
 
