@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/39/eb/7c/39eb7cb5f15f045bf3c61b4fc56a1064.gif"  />
+  <img src="https://raw.githubusercontent.com/bratmenace/bratmenace/main/assets/harley-quinn.gif" width="300" />
 </div>
 
 ###
@@ -16,9 +16,9 @@
 
 ###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bratmenace/bratmenace/main/assets/Daddy-s-Lil-Menace.png" width="700">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bratmenace/bratmenace/main/assets/Daddy-s-Lil-Menace-Improved-Cropped.png" width="800">
+</div>
 
 ###
 
