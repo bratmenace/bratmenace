@@ -5,7 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=plastic" height="25" alt="bluesky logo"  />
+  <a href="https://bsky.app/profile/bratmenacexxx.blacksky.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&style=plastic" height="25" alt="Bluesky logo" />
+  </a>
 </div>
 
 ###
